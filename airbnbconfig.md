@@ -1,3 +1,4 @@
+## [airbnb](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) JavaScript规范
 ## airbnb eslint 配置
 ### 安装Eslint
 ```
